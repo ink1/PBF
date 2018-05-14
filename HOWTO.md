@@ -6,7 +6,7 @@ Steps
 - Install Miniconda or Anaconda
 - Create RDKit environment
 ```
-conda create -n rdkit2015.03.1 -c rdkit python=2.7 rdkit=2015.03.1
+conda create -n rdkit2015.03.1 -c rdkit python=2.7 rdkit=2015.03.1 eigen
 conda activate rdkit2015.03.1
 ```
 - Clone this repository
